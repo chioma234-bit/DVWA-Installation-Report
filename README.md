@@ -71,7 +71,15 @@ Note: No vulnerability testing was performed as this practical focused on instal
 The following screenshots are included as evidence of the practical work:
 
 1. Docker containers running.
+   <img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/5f93f965-552c-447f-bfe9-9491bcf9b7ef" />
+
 3. DVWA database setup page.
-4. Successful DVWA login and welcome page.
-5. DVWA security level showing Impossible.
+   <img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/54a96110-0f23-4c33-b9f6-33fc1a09df42" />
+
+5. Successful DVWA login and welcome page.
+   <img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/1af395b0-665f-4ac7-9201-908dd8fddf6d" />
+
+7. DVWA security level showing Impossible.
+   <img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/f3312189-9cec-489f-8bc6-5816ebcb3c2d" />
+
    
